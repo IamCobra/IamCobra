@@ -72,7 +72,7 @@
   <a href="mailto:Ikhvan95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/ikhvan-bajsaluev">
+  <a href="[https://linkedin.com/in/ikhvan-bajsaluev](https://www.linkedin.com/in/ikhvan-bajsaluev-a01baa219/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@iamcobra5297">
