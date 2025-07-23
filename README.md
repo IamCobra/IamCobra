@@ -1,10 +1,11 @@
-# Hey there! I'm Cobra 🐍
-
+<div align="center"
+#  Hey there! I'm Cobra 🐍
+>/div
 <div align="center">
   
-  ### 🧑‍💻 Frontend Alchemist • Pixel Perfectionist • JavaScript Enthusiast
+  ### ⚡ Venomous Frontend Developer • Code Serpent • Digital Predator ⚡
   
-  **From Denmark 🇩🇰 to Digital World | Turning ☕ into Code Since 2021**
+  **🇩🇰 Striking from Denmark | Injecting venom into bugs since 2021 | Ready to bite your projects with perfection 🇩🇰**
   
   [![Profile Views](https://komarev.com/ghpvc/?username=IamCobra&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/IamCobra)
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?label=YouTube&style=for-the-badge&color=red&logo=youtube)](https://www.youtube.com/@iamcobra5297)
@@ -14,19 +15,19 @@
 
 ---
 
-## 🚀 Current Focus
+## ⚡ CURRENT HUNT
 
 <div align="center">
   
-  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔥+Building+Wolf+Webshop+%7C+Fashion+eCommerce;🧠+Mastering+Next.js+14+%26+TypeScript;⚡+Web+Performance+Optimization;🌱+Exploring+Three.js+3D+Magic;🎯+Creating+Seamless+User+Experiences)
+  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=🐍+Striking+Wolf+Webshop+with+deadly+precision;💀+Mastering+Next.js+%26+TypeScript+like+venom;⚡+Optimizing+performance+with+serpent+speed;🔥+Weaving+Three.js+magic+in+the+shadows;🎯+Hypnotizing+users+with+flawless+experiences)
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚔️ VENOM ARSENAL
 
-### **Frontend Magic**
+### **🐍 Frontend Fangs**
 <div align="center">
   
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,7 +41,7 @@
 
 </div>
 
-### **Backend Power**
+### **💀 Backend Bite**
 <div align="center">
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -51,7 +52,7 @@
 
 </div>
 
-### **Tools & Design**
+### **🔧 Serpent Tools**
 <div align="center">
   
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -65,82 +66,81 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 STRIKE STATISTICS
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IamCobra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IamCobra&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=58A6FF&border_radius=10" alt="GitHub Streak">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IamCobra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_radius=15" alt="Cobra's GitHub Stats">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IamCobra&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00CC33&sideLabels=00CC33&currStreakNum=00FF41&dates=666666&sideNums=00FF41&border_radius=15" alt="Cobra's Strike Streak">
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamCobra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamCobra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00CC33&border_radius=15" alt="Cobra's Favorite Weapons">
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamCobra&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Activity Graph">
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  [![WolfWebshop](https://github-readme-stats.vercel.app/api/pin/?username=IamCobra&repo=WolfWebshop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF6B6B&border_radius=10)](https://github.com/IamCobra/WolfWebshop)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamCobra&theme=high-contrast&hide_border=true&area=true&bg_color=0a0a0a&color=00FF41&line=00FF41&point=FF0000" alt="Cobra's Hunting Activity">
 
 </div>
 
 ---
 
-## 🎯 2025 Mission
+## 🏆 COBRA'S PREY
 
 <div align="center">
-
-| 🎯 Goal | 📋 Description | 🚀 Status |
-|---------|----------------|-----------|
-| 🔥 **Complete WolfWebshop** | Full-stack fashion eCommerce platform | 🚧 In Progress |
-| 💻 **Daily Coding Streak** | Commit code every single day | ✅ 47 days strong |
-| 📱 **Mobile App Launch** | Cross-platform mobile solution | 📋 Planning |
-| 🌟 **Open Source Contributions** | Contribute to 10+ repositories | 🔄 3/10 done |
-| 🎓 **Learn AI Integration** | Implement AI features in projects | 📚 Learning |
+  
+  [![WolfWebshop](https://github-readme-stats.vercel.app/api/pin/?username=IamCobra&repo=WolfWebshop&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00CC33&icon_color=FF0000&border_radius=15)](https://github.com/IamCobra/WolfWebshop)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🎯 2025 HUNT TARGETS
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ikhvan95@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikhvan-bajsaluev-a01baa219/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iamcobra5297)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/IamCobra)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+
+| 🐍 Target | 💀 Mission Description | ⚡ Hunt Status |
+|-----------|-------------------------|----------------|
+| 🔥 **Wolf Webshop Domination** | Venomous fashion eCommerce empire | 🐍 Actively Hunting |
+| 💻 **Code Every Day** | Strike with precision daily | 🔄 Tracking Streaks |
+| 📱 **Mobile Conquest** | Cross-platform venom injection | 📋 Planning Attack |
+| 🌟 **Open Source Venom** | Poison 10+ repositories with excellence | 🎯 Hunting Mode |
+| 🤖 **AI Integration Mastery** | Merge serpent intelligence with AI | 🧠 Learning Phase |
 
 </div>
 
 ---
 
-## 💭 Philosophy
+## 🤝 JOIN THE COBRA'S NEST
 
 <div align="center">
   
-  ![Quote Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Coding+with+passion%2C+creating+with+purpose;Turning+coffee+into+digital+masterpieces;Pixel+perfection+is+my+obsession;Building+the+future%2C+one+commit+at+a+time)
+  [![Email](https://img.shields.io/badge/Venom_Mail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ikhvan95@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/Professional_Hunt-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ikhvan-bajsaluev-a01baa219/)
+  [![YouTube](https://img.shields.io/badge/Cobra_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iamcobra5297)
+  [![Discord](https://img.shields.io/badge/Serpent_Lair-00FF41?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/IamCobra)
+
+</div>
+
+---
+
+## 🐍 COBRA'S CREED
+
+<div align="center">
+  
+  ![Quote Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1500&color=00FF41&center=true&vCenter=true&width=550&lines=Strike+fast%2C+code+faster%2C+debug+flawlessly;Inject+venom+into+every+bug+I+encounter;Slithering+through+code+with+deadly+precision;Ready+to+strike+your+next+project)
 
   ---
   
-  > *"🦘 Fun Fact: Like kangaroos, I only move forward - no backward steps in my code!"*
+  > *"🐍 A true cobra never retreats - only strikes with more precision!"*
   
-  **Always learning • Always building • Always improving**
+  **Always hunting • Always striking • Always evolving**
   
-  ![Snake Animation](https://github.com/IamCobra/IamCobra/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/IamCobra/IamCobra/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -148,8 +148,8 @@
 
 <div align="center">
   
-  **Thanks for visiting! ⭐ Star some repos if you find them interesting!**
+  **⚡ Ready to get bitten by quality code? ⭐ Star my repos if you dare! ⚡**
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
 
 </div>
