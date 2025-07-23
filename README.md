@@ -1,6 +1,5 @@
-<div align="center"
 #  Hey there! I'm Cobra 🐍
->/div
+
 <div align="center">
   
   ### ⚡ Venomous Frontend Developer • Code Serpent • Digital Predator ⚡
