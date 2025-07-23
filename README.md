@@ -1,13 +1,15 @@
 <h1 align="center">
   <img src="https://em-content.zobj.net/thumbs/160/apple/325/snake_1f40d.png" width="30"> Hey! I'm Cobra 
   <img src="https://em-content.zobj.net/thumbs/160/apple/325/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="30">
-<div align="center">
-  
+</h1>
+
+# 🐍 COBRA STRIKES THE CODE 🐍
+
 <div align="center">
   
   ### ⚡ Venomous Frontend Developer • Code Serpent • Digital Predator ⚡
   
-  **🇩🇰 Striking from Denmark | Injecting venom into bugs since 2021 | Ready to bite your projects with perfection 🇩🇰**
+  🇩🇰 **Striking from Denmark** | **Injecting venom into bugs since 2021** 🇩🇰
   
   [![Profile Views](https://komarev.com/ghpvc/?username=IamCobra&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/IamCobra)
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?label=YouTube&style=for-the-badge&color=red&logo=youtube)](https://www.youtube.com/@iamcobra5297)
@@ -73,7 +75,7 @@
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IamCobra&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_radius=15" alt="Cobra's GitHub Stats">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=IamCobra&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00CC33&sideLabels=00CC33&currStreakNum=00FF41&dates=666666&sideNums=00FF41&border_radius=15" alt="Cobra's Strike Streak">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IamCobra&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FF0000&icon_color=FF0000&text_color=00FF41&border_radius=15" alt="Cobra's Strike Power">
 
 </div>
 
