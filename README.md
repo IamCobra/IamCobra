@@ -3,6 +3,8 @@
   <img src="https://em-content.zobj.net/thumbs/160/apple/325/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="30">
 <div align="center">
   
+<div align="center">
+  
   ### ⚡ Venomous Frontend Developer • Code Serpent • Digital Predator ⚡
   
   **🇩🇰 Striking from Denmark | Injecting venom into bugs since 2021 | Ready to bite your projects with perfection 🇩🇰**
@@ -70,20 +72,20 @@
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IamCobra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_radius=15" alt="Cobra's GitHub Stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IamCobra&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00CC33&sideLabels=00CC33&currStreakNum=00FF41&dates=666666&sideNums=00FF41&border_radius=15" alt="Cobra's Strike Streak">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IamCobra&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_radius=15" alt="Cobra's GitHub Stats">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=IamCobra&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00CC33&sideLabels=00CC33&currStreakNum=00FF41&dates=666666&sideNums=00FF41&border_radius=15" alt="Cobra's Strike Streak">
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamCobra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00CC33&border_radius=15" alt="Cobra's Favorite Weapons">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamCobra&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00CC33&border_radius=15" alt="Cobra's Favorite Weapons">
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamCobra&theme=high-contrast&hide_border=true&area=true&bg_color=0a0a0a&color=00FF41&line=00FF41&point=FF0000" alt="Cobra's Hunting Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamCobra&theme=github-compact&hide_border=true&area=true&bg_color=0a0a0a&color=00FF41&line=00FF41&point=FF0000" alt="Cobra's Hunting Activity">
 
 </div>
 
@@ -93,7 +95,7 @@
 
 <div align="center">
   
-  [![WolfWebshop](https://github-readme-stats.vercel.app/api/pin/?username=IamCobra&repo=WolfWebshop&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00CC33&icon_color=FF0000&border_radius=15)](https://github.com/IamCobra/WolfWebshop)
+  [![WolfWebshop](https://github-readme-stats.vercel.app/api/pin/?username=IamCobra&repo=WolfWebshop&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00CC33&icon_color=FF0000&border_radius=15)](https://github.com/IamCobra/WolfWebshop)
 
 </div>
 
@@ -140,7 +142,9 @@
   
   **Always hunting • Always striking • Always evolving**
   
-  ![Snake Animation](https://github.com/IamCobra/IamCobra/blob/output/github-contribution-grid-snake-dark.svg)
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Cobra's Strike Pattern" />
+  </div>
 
 </div>
 
