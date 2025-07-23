@@ -125,7 +125,7 @@
   [![Email](https://img.shields.io/badge/Venom_Mail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ikhvan95@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/Professional_Hunt-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ikhvan-bajsaluev-a01baa219/)
   [![YouTube](https://img.shields.io/badge/Cobra_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iamcobra5297)
-  [![Discord](https://img.shields.io/badge/Serpent_Lair-00FF41?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/IamCobra)
+  [![Discord](https://img.shields.io/badge/borzdk-00FF41?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/borzdk)
 
 </div>
 
