@@ -1,5 +1,6 @@
-#  Hey there! I'm Cobra 🐍
-
+<h1 align="center">
+  <img src="https://em-content.zobj.net/thumbs/160/apple/325/snake_1f40d.png" width="30"> Hey! I'm Cobra 
+  <img src="https://em-content.zobj.net/thumbs/160/apple/325/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="30">
 <div align="center">
   
   ### ⚡ Venomous Frontend Developer • Code Serpent • Digital Predator ⚡
